@@ -28,15 +28,7 @@ By leveraging cutting-edge LLMs to generate heavy boilerplate, handle complex CS
 
 This hybrid development paradigm ensures a highly scalable, maintainable codebase shipped at a fraction of the traditional time-to-market.
 
-## Local Deployment Strategy
-
-To run this environment locally and review the architecture, execute the following pipeline:
-
-1. Clone the repository to your local machine.
-2. Install the necessary dependencies via your preferred package manager (e.g., `npm install`).
-3. Boot the local development server utilizing `npm run dev`.
-4. Open `http://localhost:3000` in your browser to interact with the portal.
-
-*** 
+## 
+website link: https://client-command-center-gilt.vercel.app/
 
 **Architected and maintained by Yodsran Phiewpong.**
